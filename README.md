@@ -48,10 +48,13 @@ Matplotlib for visualization
 During the EDA process, I performed the following steps:
 
 **Data Cleaning**:
+
 Checked for missing values, duplicates, and outliers in the dataset and handled them accordingly. Used descriptive statistics (mean, median, standard deviation) to understand the central tendency and dispersion of the data
 
 **Visualization**:
+
 Created a bar chart, scatter plots to visualize the data.
 
 **CONCLUSION**:
+
 EDA is an essential step in the data science workflow that ensures you fully understand your data before applying machine learning models.
