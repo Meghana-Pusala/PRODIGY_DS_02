@@ -6,7 +6,7 @@ Welcome to my submission for Task 2 of the Data Science Internship at Prodigy In
 
 **DATASET**:
 
-The dataset used for this task is  https://www.kaggle.com/c/titanic/data.It is based on the real historical data of passengers aboard the RMS Titanic, which sank on its maiden voyage 1912.
+The dataset used for this task is  https://www.kaggle.com/c/titanic/data. It is based on the real historical data of passengers aboard the RMS Titanic, which sank on its maiden voyage 1912.
 
 **The Titanic dataset contains the following columns**:
 PassengerId: Unique identifier for each passenger.
