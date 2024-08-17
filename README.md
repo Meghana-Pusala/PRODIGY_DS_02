@@ -47,11 +47,11 @@ Matplotlib for visualization
 
 During the EDA process, I performed the following steps:
 
-**Data Cleaning**:
+  **Data Cleaning**:
 
 Checked for missing values, duplicates, and outliers in the dataset and handled them accordingly. Used descriptive statistics (mean, median, standard deviation) to understand the central tendency and dispersion of the data
 
-**Visualization**:
+  **Visualization**:
 
 Created a bar chart, scatter plots to visualize the data.
 
